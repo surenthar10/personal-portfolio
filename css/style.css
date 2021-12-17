@@ -1,0 +1,221 @@
+.container{
+     margin: 0 auto;
+     width: 1000px;
+     display: flex; 
+ }
+.left-section{
+    color: rgb(255, 255, 255);
+    background-color:#727272e7;
+    flex-basis: 35%;
+    line-height: 45px;
+}
+.left-section h1{
+    font-size: 26px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 33px;
+    font-family: 'Source Sans 3', sans-serif;
+
+}
+.left-section h3{
+    font-size: 23px;
+    text-align: center;
+    padding: 30px;
+    text-transform: capitalize;
+    font-family: 'Source Sans 3', sans-serif;
+    padding-top: 10px;
+}
+.contact-section a{
+    line-height: 3;
+    color: white;
+    text-decoration: none;
+    margin-left: 71px;
+    font-size: 18px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+  
+.icofont-location-pin{
+    padding: 2px;
+}
+.icofont-email{
+    padding: 2px;
+}
+.icofont-phone{
+    padding: 2px;
+}
+.icofont-linkedin{
+    padding: 2px;
+}
+.right-section{
+    flex-basis: 50%;
+    background-color:white;
+    border: solid 1px #ccc;
+}
+.left-section h2{
+    /*margin: 13px;*/
+    margin-left: 15px;
+    font-size: 22px;
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+    text-transform: uppercase;
+    /*margin-bottom: 43px;*/
+}
+ .left-section p{
+    margin: 28px;
+    font-size: 19px;
+    line-height: 1.2;
+    font-family: 'Source Sans 3', sans-serif;
+    margin-top: 8px;
+ }
+.right-section h1{
+    margin: 20px;
+    font-size: 22px;
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: 26px;
+}
+.right-section h4{
+    font-size: 21px;
+    padding: 7px;
+    font-style: oblique;
+    font-weight: bold;
+    margin-left: 39px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+.right-section h5{
+    font-size: 18px;
+    padding: 10px;
+    margin-top: 1px;
+    margin-left: 30px;
+    color: #000;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.percentage{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 0px;
+    font-family: cursive;
+    margin-left: 30px;
+    color:  #000;
+    font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Source Sans 3', sans-serif;
+}
+.hon-act{
+    display: flex;
+}
+.work{
+    display: flex;
+}
+.skill{
+    padding: 20px;
+    line-height: 2;
+    margin-left: 27px;
+    margin-top: 0px;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: 'Source Sans 3', sans-serif;
+}
+.section{
+    margin-left: 29px;
+    line-height: 2;
+    font-size: 19px;
+    font-family: 'Source Sans 3', sans-serif;
+    margin-top: 8px;
+}
+.communication{
+    padding: 20px;
+    line-height: 1.5;
+    margin-left: 27px;
+    margin-top: 0px;
+    font-size: 20px;
+    font-family: 'Source Sans 3', sans-serif;
+
+
+}
+.about{
+    padding: 20px;
+    line-height: 2;
+    margin-left: 27px;
+    margin-top: -27px;
+    font-size: 18px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+.right-section h6{
+    margin-top: 28px;
+    font-size: 20px;
+    margin-left: 46px;
+    font-weight: 600;
+    line-height: 1.5;
+    text-transform: capitalize;
+}
+.right-section h2{
+    padding: 12px;
+    margin-left: 13px;
+    font-size: 21px;
+    text-decoration: underline;
+}
+.hon-act h3{
+    padding-left: 65px;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #000;
+}
+.hon-act h4{
+    padding-left: 8px;
+    font-size: 18px;
+    padding-top: 15px;
+}
+.hon-act p{
+    padding-left: 36px;
+    font-style: oblique;
+    font-weight: bolder;
+}
+.document{
+    line-height: 1.5;
+    font-size: 19px;
+    padding-left: 22px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+.work h3{
+    padding-left: 31px;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #000;
+}
+.work h4{
+    padding-left: 0px;
+    font-size: 19px;
+    padding-top: 15px;
+    margin-left: 27px;
+}
+.sports{
+    padding-left: 24px;
+    font-size: 20px;
+    line-height: 2;
+    margin-top: 1px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+.icofont-caret-right{
+    color:black;
+    size: 50px;
+}
+.icofont-volleyball::before{
+    padding-right: 7px;
+}
+.icofont-motor-bike-alt::before{
+     padding-right: 7px;
+}
+.icofont-music-notes::before{
+    padding-right: 7px;
+}
+.icofont-hat::before{
+    padding-right: 7px;
+}
+.icofont-certificate-alt-1{
+    padding-right: 7px;
+}
